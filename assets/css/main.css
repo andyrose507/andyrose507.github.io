@@ -2844,7 +2844,8 @@ input, select, textarea {
 		color: #c0c0c0;
 		overflow: hidden;
 		padding: 2em 0 2em 0;
-		text-align: center;
+		margin: 0 auto;
+		/* text-align: center; */
 	}
 
 		#footer .copyright {
